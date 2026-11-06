@@ -1,0 +1,1 @@
+const i="HSqTm4qtqMJOQgJKAqBLWQ";function t(e){const n=e.replace(":","-");return{design:{type:"figma",url:`https://www.figma.com/design/${i}/DuckDuckGo-App-Screens-2026_Challenge?node-id=${n}`}}}export{t as f};
