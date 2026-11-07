@@ -6,4 +6,4 @@ This is not the DuckDuckGo design system, and it is not affiliated with DuckDuck
 
 https://rohitsehmi.github.io/ddgds-storybook/
 
-Built from private ddgds `de0c86b`.
+Built from private ddgds `cedb6e2`.
